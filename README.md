@@ -6,7 +6,7 @@ BG Currently in Sofia, Bulgaria
 
 ### What I am focused on now 🔎
 🎓Studying in university  
-⚙️Developing community-driven apps
+⚙️Developing community-driven apps  
 🧑‍💻React and Node.js skills
 
 ### You can find me here 🔗
