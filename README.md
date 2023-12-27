@@ -5,9 +5,9 @@ BG Born in Varna, Bulgaria
 BG Currently in Sofia, Bulgaria
 
 ### What I am focused on now 🔎
-🎓Studying in university  
-⚙️Developing community-driven apps  
-🧑‍💻React and Node.js skills
+⚙️Developing full-stack apps  
+🧑‍💻Python and Django skills
+🎓Studying in university
 
 ### You can find me here 🔗
 🚀 [Site](https://djakozz.github.io)  
