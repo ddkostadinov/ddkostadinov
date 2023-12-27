@@ -6,7 +6,7 @@ BG Currently in Sofia, Bulgaria
 
 ### What I am focused on now 🔎
 ⚙️Developing full-stack apps  
-🧑‍💻Python and Django skills
+🧑‍💻Python and Django skills  
 🎓Studying in university
 
 ### You can find me here 🔗
