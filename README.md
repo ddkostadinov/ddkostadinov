@@ -10,6 +10,6 @@ BG Currently in Sofia, Bulgaria
 🎓Studying in university
 
 ### You can find me here 🔗
-🚀 [Site](https://djakozz.github.io)  
+🚀 [Site](https://ddkostadinov.github.io)  
 🐦 [Twitter](https://twitter.com/kostadinov_do)   
 📘 [LinkedIn](https://linkedin.com/in/david-kostadinov)  
