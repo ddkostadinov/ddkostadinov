@@ -1,5 +1,6 @@
 ### Hey, my name is David!👋
 📖 Software engineer @ DXC Technology | BMW Autonomous Driving
+
 Student of Finance & Economics
 
 BG Born in Varna, Bulgaria  
