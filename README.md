@@ -1,17 +1,8 @@
-### Hey, my name is David!👋
-📖 Software engineer @ DXC Technology | BMW Autonomous Driving
+### Hey, my name is David!
+📖 System Engineer @ KBC Global Services
 
-Student of Finance & Economics
-
-BG Born in Varna, Bulgaria  
-BG Currently in Sofia, Bulgaria
-
-### What I am focused on now 🔎
-⚙️Developing full-stack apps  
-🧑‍💻Python and Django skills  
-🎓Studying in university
+BG Currently in Varna, Bulgaria
 
 ### You can find me here 🔗
-🚀 [Site](https://ddkostadinov.github.io)  
-🐦 [Twitter](https://twitter.com/kostadinov_do)   
+🚀 [Site](https://ddkostadinov.github.io)    
 📘 [LinkedIn](https://linkedin.com/in/david-kostadinov)  
